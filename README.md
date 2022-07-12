@@ -10,13 +10,13 @@
 Run the command to install:
 
 ```sh
-$ curl -Lo- "https://github.com/neoglez/wmctrl-switch/blob/main/install.sh" | sudo bash
+$ curl -Lo- "https://raw.githubusercontent.com/neoglez/wmctrl-switch/main/install.sh" | sudo bash
 ```
 
 ## Uninstall
 Run the command to uninstall:
 ```sh
-$ curl -Lo- "https://github.com/neoglez/wmctrl-switch/blob/main/uninstall.sh" | sudo bash
+$ curl -Lo- "https://raw.githubusercontent.com/neoglez/wmctrl-switch/main/uninstall.sh" | sudo bash
 ```
 
 ## About
